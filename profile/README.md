@@ -67,4 +67,4 @@ Powerful and intuitive MySQL administration tool with a fully activated license,
 
 ### 🔍 SEO Keywords
 
-sqlyog, sqlyog full version, sqlyog client, activated sqlyog, sqlyog download, sqlyog free, sqlyog free download, download sqlyog, sqlyog full, sqlyog activated, sqlyog pre activated, sqlyog offline activation, sqlyog activation, sqlyog activation key, sqlyog full version
+sqlyog, sqlyog full version, sqlyog client, activated sqlyog, sqlyog download, sqlyog free, sqlyog free download, download sqlyog, sqlyog full, sqlyog activated, sqlyog pre activated, sqlyog offline activation, sqlyog activation, sqlyog activation key
